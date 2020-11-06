@@ -20,7 +20,7 @@
   {% feed_meta %}
 
   <!-- Google Analytics-->
-  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% if site.google_analytics and site.environment == 'production' %}
   {% include google-analytics.html %}
   {% endif %}
   {% if site.tags != "" %}

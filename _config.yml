@@ -24,7 +24,7 @@ tagline: Linux, Opensource, Electronics and Photography
 description: >- # this means to ignore newlines until "baseurl:"
   My blog on Linux, Opensource, Electronics and Photography
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.vikki.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.vikki.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: r_vignesh88
 github_username:  vignesh88
 youtube_channelid: VigneshRagupathy
@@ -66,7 +66,7 @@ disqus: vikkiblog
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
 #    shortname: vikkiblog
 author: "Vignesh Ragupathy"
-website: https://www.vikki.in
+website: https://blog.vikki.in
 google_analytics: UA-75997179-1
 show_excerpts: true
 header_pages:

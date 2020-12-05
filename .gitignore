@@ -3,4 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_post/2020-11-20-stock-market-notification.markdown
 

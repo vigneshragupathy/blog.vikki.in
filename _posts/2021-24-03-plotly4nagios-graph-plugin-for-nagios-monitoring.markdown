@@ -10,7 +10,7 @@ comments: true
 image: /content/images/2021/plotly4nagios_dark.png
 ---
 
-I am working on plugin for nagios to display graph based on the RRD database provided by PNP4NAGIOS. The first pre-release is published today in [github](https://github.com/vignesh88/plotly4nagios) and here is the installation document to experiment it.
+[Plotly4Nagios](https://github.com/vignesh88/plotly4nagios) is a nagios plugin to display the performance data in Graph. It uses the RRD database provided by pnp4nagios and visualize it in interactive graph format using plotly javascript. The first pre-release is published today in [github](https://github.com/vignesh88/plotly4nagios) and here is the installation document. You can experiment it and report the issue/feedback for further enhancement.
 
 ## GIT badges
 
@@ -19,6 +19,13 @@ I am working on plugin for nagios to display graph based on the RRD database pro
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5584b07ff944a77a9e1fcd0951c2eb8)](https://app.codacy.com/gh/vignesh88/plotly4nagios?utm_source=github.com&utm_medium=referral&utm_content=vignesh88/plotly4nagios&utm_campaign=Badge_Grade_Settings)
 [![CodeFactor](https://www.codefactor.io/repository/github/vignesh88/plotly4nagios/badge)](https://www.codefactor.io/repository/github/vignesh88/plotly4nagios)
 [![DeepSource](https://deepsource.io/gh/vignesh88/plotly4nagios.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/vignesh88/plotly4nagios/?ref=repository-badge)
+
+## Features
+
+- Easy integration with nagios `notes_url`.
+- Single page view for all performance metrics.
+- Easy template change using configuration variable.
+- Docker container based deploy and run.
 
 ## Installation
 

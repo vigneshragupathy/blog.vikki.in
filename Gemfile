@@ -32,3 +32,5 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-redirect-from"
 gem "jekyll-remote-theme"
+
+gem "webrick", "~> 1.7"

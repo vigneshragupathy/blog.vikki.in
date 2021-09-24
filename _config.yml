@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vikki's blog
+title: Vignesh Ragupathy
 email: blog@vikki.in
-tagline: Linux, Opensource, Electronics and Photography
+tagline: Mind Wandering
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog on Linux, Opensource, Electronics and Photography
+  Vignesh Ragupathy's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.vikki.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vikkiintweet
@@ -75,7 +75,7 @@ header_pages:
   - pages/tools.markdown
   - pages/videos.markdown
   - pages/about-me.markdown
-paginate: 8
+paginate: 30
 paginate_path: /page:num/
 markdown: kramdown
 highlighter: rouge

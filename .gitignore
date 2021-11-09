@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 _posts/2020-11-20-stock-market-notification.markdown
-
+.DS_Store

@@ -193,7 +193,7 @@ Now lets create a pod and verify the status
 
 vikki@kubernetes1:~/ssl$ vim pod.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/aa1503f5161a453f120ab6b121f6325a.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/aa1503f5161a453f120ab6b121f6325a.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~/ssl$ kubectl create -f pod.yaml 
 pod/myapp-pod created

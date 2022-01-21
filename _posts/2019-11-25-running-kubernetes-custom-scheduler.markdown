@@ -35,7 +35,7 @@ vikki@kubernetes1:~$ sudo cp /etc/kubernetes/manifests/kube-scheduler.yaml custo
 vikki@kubernetes1:~$ sudo chmod 777 custom-scheduler.yaml 
 vikki@kubernetes1:~$ vim custom-scheduler.yaml 
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/2a8e765cb702a7f8edf4e8760599da10.js"></script><!--kg-card-end: html-->
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/2a8e765cb702a7f8edf4e8760599da10.js"></script><!--kg-card-end: html-->
 ##### Step 2: Create the custom scheduler
 {% highlight console %}
 
@@ -81,7 +81,7 @@ Below are the key changes made in orignal file
 
 vikki@kubernetes1:~$ kubectl edit clusterrole system:kube-scheduler
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/801aa697779378ff30e46e5247de8980.js"></script><!--kg-card-end: html-->
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/801aa697779378ff30e46e5247de8980.js"></script><!--kg-card-end: html-->
 ##### Step 4: Create pods with different types of scheduler
 
 Create a pod without explicitly mentioning any scheuler name. This pod should be scheduled by default scheduler _kube-scheduler_
@@ -90,7 +90,7 @@ Create a pod without explicitly mentioning any scheuler name. This pod should be
 
 vikki@kubernetes1:~$ vim pod_default_scheduler.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/cfe05dda5b00a4f170b9cdd08f6aa0dd.js"></script><!--kg-card-end: html-->
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/cfe05dda5b00a4f170b9cdd08f6aa0dd.js"></script><!--kg-card-end: html-->
 
 Create a pod by explicitly mentioning custom scheuler name _my-scheduler_.
 
@@ -98,7 +98,7 @@ Create a pod by explicitly mentioning custom scheuler name _my-scheduler_.
 
 vikki@kubernetes1:~$ vim pod_custom_scheduler.yaml 
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/04cc5ac3e1933b4c1979a631de424116.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/04cc5ac3e1933b4c1979a631de424116.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_default_scheduler.yaml 
 pod/nginx-pod-default-scheduler created

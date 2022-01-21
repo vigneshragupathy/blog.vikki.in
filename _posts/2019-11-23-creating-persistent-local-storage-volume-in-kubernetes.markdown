@@ -46,7 +46,7 @@ Create a PV and map the local storage director and configure the label in the no
 
 vikki@kubernetes1:~$ vim pv.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/b0fdde697229f150740a079b77458d64.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/b0fdde697229f150740a079b77458d64.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pv.yaml 
 persistentvolume/vikki-pv-volume created
@@ -71,7 +71,7 @@ Create a PVC and map the above created PV
 
 vikki@kubernetes1:~$ vim pv_claim.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/5f9f6acb132e499ccb80523b170dc815.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/5f9f6acb132e499ccb80523b170dc815.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pv_claim.yaml 
 persistentvolumeclaim/vikki-pv-volume-claim created
@@ -103,7 +103,7 @@ vikki@kubernetes1:~$ kubectl run --image=nginx nginx-pod --generator=run-pod/v1 
 
 vikki@kubernetes1:~$ vim pod.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/76f42e185c516284f0babbdc3b67cd1a.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/76f42e185c516284f0babbdc3b67cd1a.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod.yaml 
 pod/nginx-pod created

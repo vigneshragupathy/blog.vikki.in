@@ -26,11 +26,11 @@ vim pv.yaml
 
 {% endhighlight %}
 
-<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/b0fdde697229f150740a079b77458d64.js"></script><!--kg-card-end: html-->{% highlight console %}
+<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/b0fdde697229f150740a079b77458d64.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vim pv_claim.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/5f9f6acb132e499ccb80523b170dc815.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/5f9f6acb132e499ccb80523b170dc815.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pv.yaml 
 persistentvolume/vikki-pv-volume created
@@ -60,7 +60,7 @@ Create a statefulSets and map the PVC created in previous steps. The statefull s
 
 vim ss.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/d04c1473a6dacc90fcc8af2946b54b92.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/d04c1473a6dacc90fcc8af2946b54b92.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f ss.yaml 
 service/nginx created

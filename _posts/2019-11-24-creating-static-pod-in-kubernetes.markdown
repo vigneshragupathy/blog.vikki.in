@@ -44,7 +44,7 @@ staticPodPath: /etc/kubernetes/manifests
 root@kubernetes3:~# cd /etc/kubernetes/manifests/
 root@kubernetes3:/etc/kubernetes/manifests# vim static-pod.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/bbd1584780b98d771c479a4413c97b6e.js"></script><!--kg-card-end: html-->
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/bbd1584780b98d771c479a4413c97b6e.js"></script><!--kg-card-end: html-->
 
 Now try to grep for the pod name in the docker container list
 

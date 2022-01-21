@@ -30,7 +30,7 @@ I am using the Virtualbox(running in Ubuntu 18.04 physical machine) for this ent
 
 vikki@kubernetes1:~$ vim pod_node_name.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/5f329160b5846ba72beba94bd46f8860.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/5f329160b5846ba72beba94bd46f8860.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl apply -f pod_node_name.yaml 
 pod/nginx-pod-nodename created
@@ -87,7 +87,7 @@ kubernetes3 Ready <none> 118m v1.16.3 beta.kubernetes.io/arch=amd64,beta.kuberne
 
 vikki@kubernetes1:~$ vim pod_label.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/dc26cbe554bd78b4e17103bcd96d153f.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/dc26cbe554bd78b4e17103bcd96d153f.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_label.yaml 
 pod/nginx-pod-label created
@@ -139,7 +139,7 @@ Create a pod with node affinity specs and match the lable using matchExpressions
 
 vikki@kubernetes1:~$ vim pod_node_affinity.yaml 
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/704e4a3ce125a5e66b5b754f9edcd874.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/704e4a3ce125a5e66b5b754f9edcd874.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_node_affinity.yaml 
 pod/nginx-pod-nodeaffinity created
@@ -216,7 +216,7 @@ Create a pod with pod affinity specs and match the lable using matchExpressions 
 
 vikki@kubernetes1:~$ vim pod_pod_affinity.yaml 
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/a4048e59449210e28e4bf66971c8d56a.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/a4048e59449210e28e4bf66971c8d56a.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_pod_affinity.yaml 
 pod/nginx-pod-podaffinity created
@@ -252,7 +252,7 @@ Lets create a new pod with the label configued previously
 
 vikki@kubernetes1:~$ vim pod_label_podaffinity.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/09965427e66db5bc14443f49f2ed2a9d.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/09965427e66db5bc14443f49f2ed2a9d.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl apply -f pod_label_podaffinity.yaml 
 pod/nginx-pod-web-nginx-backend created
@@ -304,7 +304,7 @@ kubernetes4 Ready <none> 2m55s v1.16.3 app=highperformance,beta.kubernetes.io/ar
 
     vikki@kubernetes1:~$ vim pod_label_1.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/fb98260bd5405feee85ca565b188933b.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/fb98260bd5405feee85ca565b188933b.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_label_1.yaml 
 pod/nginx-pod-taint created
@@ -343,7 +343,7 @@ Now create a new pod and use nodeSelector to assign to kubernetes4
 
 vikki@kubernetes1:~$ vim pod_label_2.yaml
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/4da565b636ec481e4f6e5147b2419a93.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/4da565b636ec481e4f6e5147b2419a93.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl create -f pod_label_2.yaml 
 pod/nginx-pod-taint-2 created
@@ -375,7 +375,7 @@ Now lets add toleration to the same pod for "NoSchedule" and apply the changes.
 
 vikki@kubernetes1:~$ vim pod_label_3.yaml 
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/5790929db238b9276d4961d3a91e6a29.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/5790929db238b9276d4961d3a91e6a29.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl apply -f pod_label_3.yaml 
 Warning: kubectl apply should be used on resource created by either kubectl create --save-config or kubectl apply

@@ -23,7 +23,7 @@ I am using the Virtualbox(running in Ubuntu 18.04 physical machine) for this ent
 vikki@kubernetes1:~$ kubectl create -f ds.yaml 
 daemonset.apps/fluentd-elasticsearch created
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/467337d30e6018fae4d33af6d762f36d.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/467337d30e6018fae4d33af6d762f36d.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl get ds
 NAME DESIRED CURRENT READY UP-TO-DATE AVAILABLE NODE SELECTOR AGE
@@ -83,7 +83,7 @@ vikki@kubernetes1:~$ vim ds_new.yaml
     
     
 
-{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vignesh88/573453ca14d2e79e02f3cfe6c7a3ef20.js"></script><!--kg-card-end: html-->{% highlight console %}
+{% endhighlight %}<!--kg-card-begin: html--><script src="https://gist.github.com/vigneshragupathy/573453ca14d2e79e02f3cfe6c7a3ef20.js"></script><!--kg-card-end: html-->{% highlight console %}
 
 vikki@kubernetes1:~$ kubectl apply -f ds_new.yaml 
 Warning: kubectl apply should be used on resource created by either kubectl create --save-config or kubectl apply

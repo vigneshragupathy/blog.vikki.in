@@ -3,7 +3,9 @@ $default-color: #555;
 $vikki-color: #070707;
 $default-shade: #353535;
 $vikki-shade: #396dce;
-$vikki-shade2: #F24784;
+//$vikki-shade2: #F24784;
+$vikki-shade2-dark: #fff;
+$vikki-shade2-light: #030303;
 $default-tint: #aaa;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
@@ -12,6 +14,11 @@ $white: #fff;
 $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
+$vikki-dark-bg: #030303;
+$vikki-light-bg: #fff;
+$vikki-dark-default-color: #fff;
+$vikki-light-default-color: #555;
+$vikki-dark-grey-3: #201c1c;
 
 // Fonts
 $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;

@@ -16,6 +16,7 @@ footer,
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
+  background-color: $vikki-light-bg;
 
   &-container {
     margin: 1rem auto;
@@ -25,7 +26,7 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $vikki-color;
+    color: $vikki-shade2-light;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -64,6 +65,25 @@ footer,
     color: $default-color;
     font-family: $sans-serif;
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .nav {
+    background-color: $vikki-dark-bg;
+    &-title {
+      @include transition(all .2s ease-out);
+      color: $vikki-shade2-dark;
+      display: inline-block;
+      margin: 0;
+      padding-right: .2rem;
+  
+      &:hover,
+      &:focus {
+        opacity: .6;
+      }
+    }
+  }
+
 }
 
 @media (min-width: 600px) {

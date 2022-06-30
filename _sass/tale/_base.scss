@@ -4,10 +4,27 @@
 }
 
 html,
+/*
 body {
   color: $default-color;
   margin: 0;
   padding: 0;
+  background-color: $vikki-light-bg;
+}
+*/
+body {
+  color: $vikki-light-default-color;
+  margin: 0;
+  padding: 0;
+  background-color: $vikki-light-bg;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $vikki-dark-default-color;
+    margin: 0;
+    padding: 0;
+    background-color: $vikki-dark-bg;
+  }
 }
 
 html {
@@ -32,9 +49,22 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
+  color: $vikki-shade2-light;
   font-family: $sans-serif;
   line-height: normal;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $vikki-shade2-dark;
+    font-family: $sans-serif;
+    line-height: normal;
+  }
 }
 
 a {

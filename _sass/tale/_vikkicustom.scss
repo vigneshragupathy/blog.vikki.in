@@ -1,6 +1,10 @@
 mark { 
     background-color: #EFECFC;
   }
+
+@media (prefers-color-scheme: dark) {
+mark { background-color: $vikki-shade2-dark; }
+}
   
 .footer {
   .footer--section {

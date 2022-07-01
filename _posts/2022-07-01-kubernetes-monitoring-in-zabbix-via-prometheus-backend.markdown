@@ -55,19 +55,19 @@ The metrics are exposed via API.
 
 Prometheus metrics can be queried by any HTTP client using it's API Endpoints.
 
-Way to query using curl command.
+**Query Prometheus using curl**
 
 ```
 curl -X GET  'https://PROMETHEUS_HOSTNAME/api/v1/query?query=up' | jq status.
 ```
 
-Example to query kubernetes node metrics
+**Query on kubernetes node metrics**
 
 ```
 curl -X GET  'https://PROMETHEUS_HOSTNAME/api/v1/query?query=kube_node_info' | jq status.
 ```
 
-We can also do more advanced query operations like boolean.
+**Advanced query operations like boolean**
 
 ```
 curl -X GET  'http://PROMETHEUS_HOSTNAME/api/v1/query?query={__name__=~"kube_pod_container_resource_limits_cpu_cores|kube_pod_status_phase"}>0' | jq .
@@ -87,7 +87,7 @@ Here are some of the limitations.
 
 ## Proposed approach
 
-The proposed approach is to use Prometheus as a backend for Zabbix.
+> The proposed approach is to use Prometheus as a backend for Zabbix.
 
 This approach provides the flexibility of using Prometheus pull based metrics collection, scalability and PromQL queries. Also the advantage of Zabbix for alerting, anomaly detection and role based access control etc.
 

@@ -21,8 +21,6 @@ Zabbix-Kubernetes integration provides various templates to monitor kubernetes c
 
 It also supports automatic discovery of kubernetes nodes, pods and also collects metrics agentlessly.
 
-The details of Zabbix kubernetes integration can be found in the link https://www.zabbix.com/integrations/kubernetes.
-
 ## Why I don't like the Zabbix's direct way of monitoring Kubernetes cluster?
 
 Although Zabbix-Kubernetes integration looks promising in the beginning , it is not easy to use.
@@ -96,4 +94,3 @@ This approach provides the flexibility of using Prometheus pull based metrics co
 **Architecture of the proposed approach**
 
 ![prometheus_federate](/content/images/2022/kubernetes-promethues-federate.png)
-

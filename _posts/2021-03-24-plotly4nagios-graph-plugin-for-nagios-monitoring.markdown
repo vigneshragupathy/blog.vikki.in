@@ -5,6 +5,7 @@ date: '2021-03-24 12:15:00'
 tags:
 - linux
 - opensource
+- observability
 author: Vignesh Ragupathy
 comments: true
 image: /content/images/2021/plotly4nagios_dark.png

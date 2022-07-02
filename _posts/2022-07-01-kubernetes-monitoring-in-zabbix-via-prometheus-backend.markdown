@@ -15,9 +15,9 @@ Monitoring in Kubernetes is a complex task.
 
 The traditional monitoring framework is not sufficient to handle such a massive workload.
 
-Zabbix from version 6.0 provides a native way of integration for monitoring Kubernetes cluster.
+Zabbix since version 6.0 provides a native way of integration for monitoring Kubernetes cluster.
 
-Zabbix-Kubernetes integration provides various templates to monitor kubernetes components like kube-controller-manager, kube-apiserver, kube-scheduler, kubelet, etc.
+Zabbix-Kubernetes integration provides various templates to monitor kubernetes components like `kube-controller-manager`, `kube-apiserver`, `kube-scheduler`, `kubelet`, etc.
 
 It also supports automatic discovery of kubernetes nodes, pods and also collects metrics agentlessly.
 
@@ -29,7 +29,7 @@ The documentation is not clear, it is mostly based on the assumption that the Za
 
 There are so much details missing in the documentation especially if you want to do the monitoring from external Zabbix server or even to do a multiple cross cluster monitoring.
 
-And finally, most of all, the  Zabbix monitoring system is not designed to monitor `directly` such a transient, short-lived , dynamic, `multi-dimensional` metrics from infrastructure like Kubernetes.
+And finally, most of all, the  Zabbix monitoring system is not designed to monitor `directly` such a volatile, dynamic, multi-dimensional metrics from infrastructure like Kubernetes.
 
 ## Why Prometheus?
 
@@ -43,7 +43,7 @@ The response from scrape request is parsed and stored in Prometheus database.
 
 Prometheus provided powerful querying using it's PromQL and the metrics collected can be pulled from any external system like Zabbix or Grafana via its API.
 
-Using Prometheus federation, we can easily collect metrics from multiple Kubernetes clusters and create a hierarchically scaled monitoring system.
+> Using Prometheus federation, we can easily collect metrics from multiple Kubernetes clusters and create a hierarchically scaled monitoring system.
 
 ## How Prometheus exposes metrics?
 
@@ -73,10 +73,10 @@ curl -X GET  'https://PROMETHEUS_HOSTNAME/api/v1/query?query=kube_node_info' | j
 curl -X GET  'http://PROMETHEUS_HOSTNAME/api/v1/query?query={__name__=~"kube_pod_container_resource_limits_cpu_cores|kube_pod_status_phase"}>0' | jq .
 ```
 
-## Why Prometheus is just not enough?
+## Why Prometheus is just not good enough?
 
 Prometheus is good for collecting the metrics from Kubernetes cluster.
-But it is not enough to act as full monitoring system.
+But it is not enough to act as a full-stack monitoring system.
 
 Here are some of the limitations.
 

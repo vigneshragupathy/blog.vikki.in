@@ -18,11 +18,9 @@ We both took turns driving the car, allowing one of us to work while the other d
 
 It was a unique experience to combine work and travel, and we enjoyed every moment of our trip.
 
-## The plan
-
 ## The Route
 
-![The route](https://drive.google.com/uc?id=1DF0cugXUMxfu6DqnksabxR85pxdamKCV)
+![The route](https://drive.google.com/uc?id=1DU-6wOwMAQ_YhMKtlZzLtbfZ0A7__Atl)
 
 ## Day-1: Bangalore to Hyderabad
 
@@ -81,6 +79,8 @@ The driver was incredibly friendly and even helped us to obtain tickets to the t
 
 Thanks to his assistance, we were able to navigate our way through the crowds and enjoy the beauty and spiritual significance of the temple.
 
+![Kashi1](https://drive.google.com/uc?id=1E-wHECfddvJTv0WCQ3m8dRIdbNz8-DMv)
+
 ![Kashi vishwanath temple](https://drive.google.com/uc?id=1H-zxzawAM91JwQsw7lflboZrq0whaV5K)
 
 ### Saranath
@@ -92,7 +92,7 @@ The place was incredibly peaceful and serene, and we hired a guide to show us ar
 ![Saranath1](https://drive.google.com/uc?id=13t5TuWvXwx1hRFiF5p1qHFLsjWM6XXfJ)
 ![Saranath2](https://drive.google.com/uc?id=177nmSMTpKK3k442SFnmCzKgTlgeVHD9v)
 
-Beautiful paintings on the wall.
+Me, staring at the wall art, attempting to decipher the masterpiece!!!
 
 ![Saranath3](https://drive.google.com/uc?id=1x5yZLJqSZkfPeXzGE1dSxION1OyfFvNW)
 
@@ -102,7 +102,7 @@ Nonetheless, the guide took us to a nearby shop where we indulged in the exquisi
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/rVP9_Cc7E8U' frameborder='0' allowfullscreen></iframe></div>
 
-### Ganga Yatra
+## Day-5: Ganga Yatra
 
 When visiting Varanasi, one must not miss the Ganga Yatra. So, in the evening, we planned to visit the famous attraction and decided to book a cab via Ola instead of using our own car. 
 
@@ -123,10 +123,34 @@ It was undoubtedly the best part of our trip to Varanasi. We clicked lots of pic
 ![Ganga3](https://drive.google.com/uc?id=1u1X6OlwlE7yazF7_5RuvmzeOrkS8nn2K)
 ![Ganga6](https://drive.google.com/uc?id=10z4KwQTkqamLx9PPIMVfIhtnKwB4BeT7)
 
+### Stormy night
+
+After a long and eventful day, we returned to our hotel, tired but satisfied. We decided to have dinner at the hotel restaurant and were pleasantly surprised by the quality of the food. We ordered some local delicacies and enjoyed the authentic flavors of the region.
+
+However, as the night progressed, the weather took a turn for the worse. There was heavy rain and strong winds outside. We were staying in a cottage, and the wind was so strong that it made the whole cottage shake. We were scared, not knowing what was going to happen next. The sound of the wind was so loud that it felt like the cottage was almost going to fly away.
+
+We tried to keep ourselves calm and safe, but the wind was so powerful that we could feel it from inside the cottage. We recorded a video to capture the moment and share it with our friends and family.
+
+Despite the scary experience, we were grateful that we were safe and sound. The power of nature can be awe-inspiring, and this was a moment we would never forget.
+
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/iUsooAnuN_U' frameborder='0' allowfullscreen></iframe></div>
 
-<!--
-<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube.com/embed/XMSV5J4jxSo">
-</object>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iUsooAnuN_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+## Day-6: Varanasi to Budh Gaya
+
+Next day, we had a heavy breakfast at the hotel and started our journey to Bodh Gaya. 
+
+The cottage cheese and butter toast were delicious, and we enjoyed every bite of it.
+
+We reached Bodh Gaya in the afternoon and visted the temple.
+
+![gaya1](https://drive.google.com/uc?id=1MceILp2kNaOZ2TlgHLYSP7BwNIQLdtY8)
+
+We decided to continue our journey to Konark and planned to stay in a hotel on the way. This is a mistake we made, the hotel we stayed in was not good and we had a bad experience.
+
+## Day-7: Bodh Gaya to Konark
+
+We started our journey to Konark early in the morning and reached the hotel in the evening.
+We don't want to make the mistake of staying in a unknown hotel again, so we booked a hotel in advance. This hotel is maintained by Odisha Tourism and is located near the beach. The hotel is very good and we enjoyed our stay here.
+
+![konark1](https://drive.google.com/uc?id=1DHQzP617Baf6MiogGcFj-CC_PallybNT)

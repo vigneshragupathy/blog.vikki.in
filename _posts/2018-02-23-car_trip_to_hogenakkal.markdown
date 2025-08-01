@@ -7,7 +7,7 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
-redirect_to: https://vigneshragupathy.com/coracle-ride-in-river-cauvery-an-adventurous-car-trip-to-hogenakkal/
+redirect_to: https://vigneshragupathy.com/car_trip_to_hogenakkal/
 ---
 A little rain for few days filled the rivers to overflow. It was a day the water turns golden brown. Plants and debris everywhere, up to the knees rippling the flowing water. The time has come for us to rejoin the infinite stream of waters.
 

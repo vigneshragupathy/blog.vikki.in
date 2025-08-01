@@ -8,7 +8,7 @@ tags:
 - electronics
 author: Vignesh Ragupathy
 comments: true
-redirect_to: https://vigneshragupathy.com/glusterfs-high-available-redundant-storage-with-raspberry-picentos-server/
+redirect_to: https://vigneshragupathy.com/glusterfs-ha-storage-with-raspberrypi/
 ---
 ### Overview
 

@@ -7,7 +7,7 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
-redirect_to: https://vigneshragupathy.com/my-life-at-sbi/
+redirect_to: https://vigneshragupathy.com/lifeatsbi/
 ---
 ## Summary 
 

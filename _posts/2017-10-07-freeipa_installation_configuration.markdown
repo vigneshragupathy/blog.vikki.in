@@ -7,8 +7,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/freeipa-installation-and-configuration/
 ---
-
 I worked on a freelance project a year ago which gives me experience in Free IPA server. Here I am sharing some portion of the setup used.It would be useful for beginners trying to setup Free IPA server.
 
 I have 2 sections here. One is about FreeIPA on the normal server and the other is FreeIPA in Docker container.

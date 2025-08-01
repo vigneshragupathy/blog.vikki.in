@@ -8,9 +8,9 @@ tags:
 - observability
 author: Vignesh Ragupathy
 comments: true
-image: /content/images/2021/plotly4nagios_dark.png
+image: "/content/images/2021/plotly4nagios_dark.png"
+redirect_to: https://vigneshragupathy.com/plotly4nagios-a-graph-plugin-for-nagios-monitoring/
 ---
-
 [Plotly4Nagios](https://github.com/vigneshragupathy/plotly4nagios) is a nagios plugin to display the performance data in Graph. It uses the RRD database provided by pnp4nagios and visualize it in interactive graph format using plotly javascript. The first pre-release is published today in [github](https://github.com/vigneshragupathy/plotly4nagios) and here is the installation document. You can experiment it and report the issue/feedback for further enhancement.
 
 > Plotly4Nagios is accepted and listed under official [nagios addons](https://exchange.nagios.org/directory/Addons/Graphing-and-Trending/Plotly4Nagios/details)

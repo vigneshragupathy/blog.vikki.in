@@ -7,8 +7,8 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/coracle-ride-in-river-cauvery-an-adventurous-car-trip-to-hogenakkal/
 ---
-
 A little rain for few days filled the rivers to overflow. It was a day the water turns golden brown. Plants and debris everywhere, up to the knees rippling the flowing water. The time has come for us to rejoin the infinite stream of waters.
 
 It was around 9 am on August 15, 2017, Me and my wife geared up, to begin the expedition to Hogenakkal. My Tiago is ready, petrol tank was jammed up the day before. My car's final free service was pending and I had the idea of doing it after the trip. I wanted to start the journey at 7 am finishing breakfast at home, but as usual, it was delayed and we decided to take breakfast on the way to Hogenakkal.

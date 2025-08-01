@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/rolling-updates-and-update-strategy-in-kubernetes-daemonsets/
 ---
-
 Daemonset ensures that all the nodes run a copy of a pod. It can be used for running storage/monitoring daemons like glusterd,Prometheus etc. Now in this post we are going to see how to create a daemonset and do an image update. We are also going to perform different update strategy and watch the behaviour of damonset updates.
 
 ### **Setup**

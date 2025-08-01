@@ -7,8 +7,8 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/beautiful-budapest/
 ---
-
 Budapest, otherwise called the Little Paris of Central Europe is one of the celebrated vacationer spots in Europe.  
 This city is comprised of two particular sides, the Buda and Pest, both isolated by the wonderful Danube River.
 

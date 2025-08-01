@@ -6,8 +6,8 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/lepakshi-the-land-of-history-mystery/
 ---
-
 Not I, not any one else can travel that road for you,You must travel it for yourself.It is not far, it is within reach,Perhaps you have been on it since you were born and did not know,Perhaps it is everywhere on water and on land - Walt Whitman.
 
 It was a Friday evening on the end of summer, I called my wife from office and puzzled her by saying we have to prepare some eatables for our tomorrow's picnic. Both of us were damn bored in weekends as we usually spend watching some old movies from our collection. Hence, She was also desperate for some out of town trip. We haven't planned anything before. As soon as I returned home, we discussed about the places in and around Bangalore and outskirts for the picnic. Finally we landed in Lepakshi, the abandoned artistic treasure of Vijayanagar period. It is 130 kilometres away from our location in Bangalore and situated in Anantapur district of Andhra Pradesh. We were unsure about the hotels or restaurants near the place. So, as per our tamil tradition, we prepared kattu soru, and curd rice which are taken by travelers from ancient times😜. Along with that we squeezed some lemons to fill the bottles with lemonade.

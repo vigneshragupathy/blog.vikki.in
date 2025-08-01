@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My life at SBI 
+title: My life at SBI
 date: '2021-09-16 12:15:00'
 tags:
 - linux
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/my-life-at-sbi/
 ---
-
 ## Summary 
 
 I joined State Bank of India on July 2020 and worked for 1 year and 2 months as Manager - IT Infrastructure Architect in Enterprise and Technology Architecture department in GITC, Navi Mumbai. 

@@ -8,6 +8,7 @@ tags:
 - observability
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/kubernetes-monitoring-in-zabbix-via-prometheus-backend/
 ---
 ## Summary
 

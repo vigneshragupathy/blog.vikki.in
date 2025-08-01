@@ -7,9 +7,9 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
-image: /content/images/cover/npm.jpg
+image: "/content/images/cover/npm.jpg"
+redirect_to: https://vigneshragupathy.com/publish-package-in-npm-and-serve-the-static-content-from-cdn/
 ---
-
 ![](/content/images/cover/npm.jpg)
 *Photo by [Vignesh Ragupathy](https://photography.vikki.in/vikki-photography-budapest-3){:target="_blank"}.*
 

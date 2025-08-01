@@ -3,6 +3,7 @@ layout: post
 title: About me
 date: '2019-10-21 12:22:05'
 permalink: /about-me/
+redirect_to: https://vigneshragupathy.com/about/
 ---
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2018/01/29572_10202050915854843_773242040_n.jpg" class="kg-image" alt="29572_10202050915854843_773242040_n"></figure><!--kg-card-end: image-->

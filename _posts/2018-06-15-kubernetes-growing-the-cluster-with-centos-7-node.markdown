@@ -8,8 +8,8 @@ tags:
 - kubernetes
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/kubernetes-growing-the-cluster-with-centos-7-node/
 ---
-
 In my [previous post](/kubernetes-on-ubuntu-18-04-with-dashbaoard/#kubernetes-token-generation) we seen how to install and configure kubernetes master node and dashboard on Ubuntu 18.04. Now this post is about growing the Kubernetes master by joining more nodes. For this setup i am going to use a Centos 7 VM running in virtualbox.
 
 <!--kg-card-begin: image--><figure class="kg-card kg-image-card"><img src="/content/images/2018/06/vikki_centos7_vbox.jpg" class="kg-image" alt="vikki_centos7_vbox"></figure><!--kg-card-end: image-->

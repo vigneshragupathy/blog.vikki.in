@@ -8,8 +8,8 @@ tags:
 - kubernetes
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/resource-limiting-cpu-and-memory-in-kubernetes/
 ---
-
 In my previous post, we seen how to [configure kubernetes cluster](/kubernetes-on-ubuntu-18-04-with-dashbaoard) ,[how to deploy pods and grow the cluster](/kubernetes-growing-the-cluster-with-centos-7-node/). Now in this post i am going to show how to resource limiting cpu and memory in a kubernetes deployment. We can also limit resource at namespace level, which will be covered in the later post.
 
 I am going to use a special image [vish/stress](https://hub.docker.com/r/vish/stress/). This image has options for allocating cpu and memory, which can be parsed using an argument for doing the stress test.

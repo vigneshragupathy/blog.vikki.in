@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/pod-scheduling-in-kubernetes-detailed-step-by-step/
 ---
-
 We can assign the pod to node based on various methods. Lets discuss all the below methods in the post
 
 - Using nodeName

@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/creating-static-pod-in-kubernetes/
 ---
-
 Static Pods are managed directly by the kubelet daemon on a specific node, without the API server observing them.  
 Static pods automatically restarts if it crashes. Static Pods are always bound to one Kubelet on a specific node. In the post we will try creating a static pod and watch the behaviour on delete.
 

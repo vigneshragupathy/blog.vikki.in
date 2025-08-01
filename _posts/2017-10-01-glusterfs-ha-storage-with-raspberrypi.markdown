@@ -8,8 +8,8 @@ tags:
 - electronics
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/glusterfs-high-available-redundant-storage-with-raspberry-picentos-server/
 ---
-
 ### Overview
 
 This post is about how to create a high available redundant storage (Glusterfs replicated volume) from Raspberrypi and a centos server. This is just for fun project, which i am experimenting with my new raspberrypi 2 device. This is not a perfect setup, like i am using a 2 nodes replicated volume without quorom,created brick from ext3 filesystem and on root directory etc.Do not use this setup in production 🙂

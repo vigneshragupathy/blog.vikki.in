@@ -7,8 +7,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/network-teaming-rhel7/
 ---
-
 ### Introduction
 
 #### Linux Bonding driver

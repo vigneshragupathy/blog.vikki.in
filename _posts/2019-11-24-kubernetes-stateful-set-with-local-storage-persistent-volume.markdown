@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/kubernetes-stateful-set-with-local-storage-persistent-volume/
 ---
-
 StatefulSets are similar to deployment contains identical container spec but ensures an order of the deployment. StatefulSets deploy pods in a sequential orders. Each pod as its own identity and is named with a unique ID. In the below post we are going to create a statefulsets and watch the behaviour during deletion of pod, scaling of pod and during update of container image.
 
 The StatefulSets consist of a headless service, pods and a volume. We are going to use a local-storage volume for statefulsets. It is also common to dynamically allocate storage using &nbsp;volumeClaimTemplates, but due to some limitation in virtualbox i am using a manual allocation using PersistVolumeClaim.

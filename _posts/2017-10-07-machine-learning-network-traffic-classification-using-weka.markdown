@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/machine-learning-network-traffic-classification-using-weka/
 ---
-
 ### Overview
 
 This post is about how to classify network traffic captured from wireshark using weka machine learning algorithm. I tried few other methods like nltk,sckikit,python scripts with naive bayes implementation and finally decided to use weka mainly because of its simplicity,easy to use and also because it is written in java so it is easier to integrate with other java applications(which is i am planning to do).You can check my github machine learning project page for the other methods i tried.

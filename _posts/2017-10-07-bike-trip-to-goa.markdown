@@ -6,8 +6,8 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/bike-trip-to-goa/
 ---
-
 Someone once said “Happiness is a path, not a destination” and I know its very true when i started to travel in bike.I have plans to visit many places in bike for this year and then one of my friend called and we both decided to go Goa for a bike trip. We are 3 person in two bike, a Royal enfield and a Yamaha Fz. We don’t have much plans to do in Goa, only thing we wanted is to go there in a bike.
 
 It was really a very long trip, we never expected it will take this long(almost 19 hours). We started at 8:30AM in Bangalore, that was off course a biggest mistake.It was very high traffic and it took more than 3 hours to cross Bangalore. Second after reaching Hubali-Dharwad we tried a shortcut which goes via the forest area and not the NH road. We took too many breaks,almost every 100KM. The climate is very hot and too cold after entering the forest at night .It also happened that one of our bike headlight got fuse, so we should travel inside forest for around 60 Km with only one light . It was a horrible experience, there are no street lights and no signs of human anywhere.We started going inside the forest at 11:30PM. In many places there was no signal and we are not able to use GPS for navigation . We used the downloaded offline maps to navigate for some distance. We also lost and traveled some 20Km in wrong direction because of this. Do not use the forest road after 11PM, It is very risky and you won’t find anyone to help you there. There is no shops and you can’t halt anywhere between,Its pitch black everywhere.

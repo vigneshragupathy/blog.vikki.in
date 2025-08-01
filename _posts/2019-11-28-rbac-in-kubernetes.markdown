@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/rbac-in-kubernetes/
 ---
-
 There are 3 elements involved in RBAC. In this post we are going to see how to provide user level access to resources.
 
 - Subjects - Users or Process that wants access to Kubernetes API

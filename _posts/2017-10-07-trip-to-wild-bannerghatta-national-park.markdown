@@ -6,8 +6,8 @@ tags:
 - photography
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/trip-to-wild-bannerghatta-national-park/
 ---
-
 I have been trying my hand in photography for a few months now. Recently during a trip to Bannerghatta National Park i managed to shoot some of the wildlife using my DSLR camera. Here are few snaps from my recent trip to Bannerghatta National Park.
 
 ### Tiger’s tongue is so coarse, it can lick flesh down to the bone.

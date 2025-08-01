@@ -8,8 +8,8 @@ tags:
 - opensource
 author: Vignesh Ragupathy
 comments: true
+redirect_to: https://vigneshragupathy.com/raspberry-pi-blinking-led-in-morse/
 ---
-
 In my previous post i described how i created high available replicated storage with raspberrypi  
 In this post i will guide you how to interface raspberry pi to blink a led in morse code for the user input.The same signal fed into the LED can be send to a radio transmitter and we can transmit it in radio frequency . Recently i starter learning morse code and i am going to apply a license for Amateur radio operator.
 
